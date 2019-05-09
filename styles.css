@@ -1,18 +1,64 @@
 /* Black */
 body{
   background-color: black;
-
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  margin: 60px 0px 60px 0px;
 }
 
 img {
   max-height: 50%;
   max-width: 50%;
-  width: auto;
-  height: auto;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
+}
+
+#infoBox{
+  margin-bottom: 60px;
+}
+
+h1{
+  font-size: 120px;
+
+}
+
+h2{
+  font-size: 60px;
+  text-decoration: underline;
+  
+}
+
+h3{
+  font-size: 30px;
+}
+
+#circles{
+  margin-top: 120px;
+}
+
+.circle {
+  color: white;
+  border: 2px white solid;
+  height: 50px;
+  width: 50px;
+  background-color: #bbb;
+  display: inline-block;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 100%;
+  margin-right: 10px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+
+
+
+.teamName{
+color: white;
+font-family: sans-serif;
+font-weight: 600;
+text-decoration: underline;
+text-align: center;
+margin-bottom: 20px;
+margin-top: 20px;
 }
