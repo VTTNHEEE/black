@@ -2,7 +2,7 @@ console.log("LOADED")
 
 let circles = document.getElementById("circles")
 
-console.log("")
+
 
 
 info = info.slice(1,info.length-1)
