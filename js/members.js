@@ -10,7 +10,7 @@ AK SandyBrown X
 CH mediumpurple P
 LD mediumpurple X
 TS mediumpurple P
-LD mediumpurple X
+JC mediumpurple X
 PB mediumpurple X
 BJ mediumpurple X
 -TEAM TEAM AINLEY
