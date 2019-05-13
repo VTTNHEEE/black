@@ -21,20 +21,20 @@ EH hotpink X
 LM hotpink X
 MH hotpink X
 -TEAM TEAM HOWE
-MH firebrick X
+MH firebrick P
 SM firebrick P
 DC firebrick X
 MN firebrick X
 CA firebrick X
 EL firebrick X
--TEAM OTHERS
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
--TEAM NONE
+-TEAM Trust Team
+PB dodgerblue P
+DG dodgerblue P
+JM dodgerblue P
+PH dodgerblue P
+JG dodgerblue P
+CH dodgerblue P
+-TEAM OTHERs
 ?? black X
 ?? black X
 ?? black X
