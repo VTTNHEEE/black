@@ -34,7 +34,7 @@ JM dodgerblue P
 PH dodgerblue P
 JG dodgerblue P
 CH dodgerblue P
--TEAM TEAM OTHERs
+-TEAM OTHERS
 ?? black X
 ?? black X
 ?? black X
