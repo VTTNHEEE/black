@@ -34,14 +34,14 @@ JM dodgerblue P
 PH dodgerblue P
 JG dodgerblue P
 CH dodgerblue P
+-TEAM AW Science
+RC darkgreen X
+AL darkgreen X
+CL darkgreen X
+TH darkgreen X
+RM darkgreen X
+?? darkgreen X
 -TEAM OTHERS
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
--TEAM NONE
 ?? black X
 ?? black X
 ?? black X
