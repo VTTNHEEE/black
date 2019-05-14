@@ -1,6 +1,6 @@
 var info = `
 -TEAM The Floaters
-VB SandyBrown X
+VB SandyBrown P
 BG SandyBrown X
 MO SandyBrown X
 AC SandyBrown X
