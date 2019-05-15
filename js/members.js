@@ -42,20 +42,20 @@ TH darkgreen X
 RM darkgreen X
 ?? black X
 -TEAM TEAM Colley
-GC brown X
-CF brown X
-JB brown X
-AB brown X
-FG brown X
+GC darkgoldenrod X
+CF darkgoldenrod X
+JB darkgoldenrod X
+AB darkgoldenrod X
+FG darkgoldenrod X
+?? black X
+-TEAM TEAM King
+GK yellowgreen X
+BP yellowgreen X
+RB yellowgreen X
+KW yellowgreen X
+?? black X
 ?? black X
 -TEAM OTHERS
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
--TEAM NONE
 ?? black X
 ?? black X
 ?? black X
