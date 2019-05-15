@@ -62,7 +62,7 @@ TW red P
 RP red P
 JJ red P
 R- red P
--TEAM NONE
+-TEAM OTHERS
 ?? black X
 ?? black X
 ?? black X
