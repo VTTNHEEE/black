@@ -40,15 +40,15 @@ AL darkgreen X
 CL darkgreen X
 TH darkgreen X
 RM darkgreen X
-?? darkgreen X
+?? black X
+-TEAM TEAM Colley
+GC brown X
+CF brown X
+JB brown X
+AB brown X
+FG brown X
+?? black X
 -TEAM OTHERS
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
--TEAM NONE
 ?? black X
 ?? black X
 ?? black X
