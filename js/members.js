@@ -77,9 +77,9 @@ AP navy P
 TW navy P
 EP navy P
 -TEAM OTHERS
-SA black X
-LB black X
-GR black X
+SA darkorange X
+LB darkorange X
+GR darkorange X
 ?? black X
 ?? black X
 ?? black X
