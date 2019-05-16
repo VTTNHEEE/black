@@ -69,17 +69,17 @@ JR slategray X
 SM slategray X
 DR slategray X
 KW slategray X
+-TEAM BC Science
+RI navy P
+NR navy P
+EV navy P
+AP navy P
+TW navy P
+EP navy P
 -TEAM OTHERS
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
--TEAM NONE
-?? black X
-?? black X
-?? black X
+SA black X
+LB black X
+GR black X
 ?? black X
 ?? black X
 ?? black X
