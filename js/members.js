@@ -62,14 +62,14 @@ TW red P
 RP red P
 JJ red P
 R- red P
+-TEAM BC S Team
+HG slategray X
+HM slategray X
+JR slategray X
+SM slategray X
+DR slategray X
+KW slategray X
 -TEAM OTHERS
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
-?? black X
--TEAM NONE
 ?? black X
 ?? black X
 ?? black X
