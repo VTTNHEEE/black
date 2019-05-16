@@ -53,8 +53,8 @@ GK yellowgreen X
 BP yellowgreen X
 RB yellowgreen X
 KW yellowgreen X
-?? black X
-?? black X
+DL yellowgreen X
+PB yellowgreen X
 -TEAM AW Maths
 BH red P
 JH red P
