@@ -44,7 +44,7 @@ RM darkgreen X
 -TEAM TEAM Colley
 GC darkgoldenrod X
 CF darkgoldenrod X
-JB darkgoldenrod X
+JB darkgoldenrod P
 AB darkgoldenrod X
 FG darkgoldenrod X
 ?? black X
@@ -80,7 +80,7 @@ EP navy P
 SA darkorange X
 LB darkorange X
 GR darkorange X
-?? black X
-?? black X
+CT darkorange X
+SA darkorange X
 ?? black X
 `
