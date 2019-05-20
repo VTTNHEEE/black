@@ -24,8 +24,8 @@ MH hotpink X
 MH firebrick P
 SM firebrick P
 DC firebrick X
-MN firebrick X
-CA firebrick X
+MN firebrick P
+CA firebrick P
 EL firebrick X
 -TEAM Trust Team
 PB dodgerblue P
@@ -76,11 +76,18 @@ EV navy P
 AP navy P
 TW navy P
 EP navy P
+-TEAM Andrews
+SA Fuchsia X
+CT Fuchsia X
+JB Fuchsia X
+LT Fuchsia X
+SZ Fuchsia X
+KK Fuchsia X
 -TEAM Team ...
-SA darkorange X
 LB darkorange X
 GR darkorange X
-CT darkorange X
 SA darkorange X
 JF darkorange X
+?? darkorange X
+?? darkorange X
 `
