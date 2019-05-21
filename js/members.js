@@ -3,7 +3,7 @@ var info = `
 VB SandyBrown P
 BG SandyBrown X
 MO SandyBrown X
-AC SandyBrown X
+AC SandyBrown P
 LF SandyBrown X
 AK SandyBrown X
 -TEAM Generic team name
@@ -39,7 +39,7 @@ RC darkgreen X
 AL darkgreen X
 CL darkgreen X
 TH darkgreen X
-RM darkgreen X
+RM darkgreen P
 ?? black X
 -TEAM TEAM Colley
 GC darkgoldenrod P
@@ -63,7 +63,7 @@ RP red P
 JJ red P
 RC red P
 -TEAM BC S Team
-HG slategray X
+HG slategray P
 HM slategray X
 JR slategray P
 SM slategray X
