@@ -45,7 +45,7 @@ RM darkgreen P
 GC darkgoldenrod P
 CF darkgoldenrod P
 JB darkgoldenrod P
-AB darkgoldenrod X
+AB darkgoldenrod P
 FG darkgoldenrod X
 ?? black X
 -TEAM TEAM King
