@@ -4,7 +4,7 @@ VB SandyBrown P
 BG SandyBrown X
 MO SandyBrown X
 AC SandyBrown P
-LF SandyBrown X
+LF SandyBrown P
 AK SandyBrown X
 -TEAM Generic team name
 CH mediumpurple P
@@ -78,9 +78,9 @@ TW navy P
 EP navy P
 -TEAM Andrews
 SA Fuchsia X
-CT Fuchsia X
+CT Fuchsia P
 JB Fuchsia X
-LT Fuchsia X
+LT Fuchsia P
 SZ Fuchsia X
 KK Fuchsia X
 -TEAM Team ...
