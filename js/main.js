@@ -24,7 +24,10 @@ for(var i = 0; i < lines.length; i++){
     continue;
   }
   
-  var [initials, colour, paid] = line.split(" ");
+  var parts = line.split(" ");
+  var initials = parts[0];
+  var colour = parts[1];
+  var paid = parts[2];
   var s = document.createElement("span");
   
   if(initials=="??"){
