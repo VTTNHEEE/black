@@ -83,11 +83,11 @@ JB Fuchsia X
 LT Fuchsia P
 SZ Fuchsia X
 KK Fuchsia X
--TEAM Team ...
+-TEAM Team 13
 LB darkorange X
 GR darkorange X
 SA darkorange X
 JF darkorange X
-?? black X
+EP darkorange X
 ?? black X
 `
