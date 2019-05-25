@@ -7,7 +7,7 @@ var lines = info.split("\n");
 
 for(var i = 0; i < lines.length; i++){
   var line = lines[i];
-  if(line.startsWith("-TEAM ")){
+  if(line.indexOf("-TEAM ") == 0){
     var teamNameDiv = document.createElement("div");
     var teamName = line.split("-TEAM ")[1]
     teamNameDiv.className = "teamName";
