@@ -36,7 +36,7 @@ JG dodgerblue P\n\
 CH dodgerblue P\n\
 -TEAM AW Science\n\
 RC darkgreen X\n\
-AL darkgreen X\n\
+AL darkgreen P\n\
 CL darkgreen X\n\
 TH darkgreen X\n\
 RM darkgreen P\n\
@@ -51,7 +51,7 @@ FG darkgoldenrod X\n\
 -TEAM TEAM King\n\
 GK yellowgreen X\n\
 BP yellowgreen X\n\
-RB yellowgreen X\n\
+RB yellowgreen P\n\
 KW yellowgreen X\n\
 DL yellowgreen X\n\
 PB yellowgreen X\n\
@@ -84,9 +84,9 @@ LT Fuchsia P\n\
 SZ Fuchsia X\n\
 KK Fuchsia X\n\
 -TEAM Team 13\n\
-LB darkorange X\n\
+LB darkorange P\n\
 GR darkorange X\n\
-SA darkorange X\n\
+SA darkorange P\n\
 JF darkorange X\n\
 EP darkorange X\n\
 ?? black X\n\
