@@ -14,12 +14,12 @@ JC mediumpurple X\n\
 PB mediumpurple X\n\
 BJ mediumpurple X\n\
 -TEAM TEAM AINLEY\n\
-RA hotpink X\n\
+RA hotpink P\n\
 KM hotpink X\n\
-GF hotpink X\n\
+GF hotpink P\n\
 EH hotpink X\n\
 LM hotpink X\n\
-MH hotpink X\n\
+MH hotpink P\n\
 -TEAM TEAM HOWE\n\
 MH firebrick P\n\
 SM firebrick P\n\
@@ -40,7 +40,7 @@ AL darkgreen P\n\
 CL darkgreen X\n\
 TH darkgreen X\n\
 RM darkgreen P\n\
-?? black X\n\
+JA darkgreen X\n\
 -TEAM TEAM Colley\n\
 GC darkgoldenrod P\n\
 CF darkgoldenrod P\n\
@@ -64,7 +64,7 @@ JJ red P\n\
 RC red P\n\
 -TEAM BC S Team\n\
 HG slategray P\n\
-HM slategray X\n\
+HM slategray P\n\
 JR slategray P\n\
 SM slategray X\n\
 DR slategray X\n\
@@ -85,9 +85,9 @@ SZ Fuchsia X\n\
 KK Fuchsia X\n\
 -TEAM Team 13\n\
 LB darkorange P\n\
-GR darkorange X\n\
+GR darkorange P\n\
 SA darkorange P\n\
 JF darkorange X\n\
-EP darkorange X\n\
+EP darkorange P\n\
 ?? black X\n\
 "
