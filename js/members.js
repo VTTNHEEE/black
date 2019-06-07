@@ -5,10 +5,10 @@ BG SandyBrown X\n\
 MO SandyBrown X\n\
 AC SandyBrown P\n\
 LF SandyBrown P\n\
-AK SandyBrown X\n\
+AK SandyBrown P\n\
 -TEAM Generic team name\n\
 CH mediumpurple P\n\
-LD mediumpurple X\n\
+LD mediumpurple P\n\
 TS mediumpurple P\n\
 JC mediumpurple X\n\
 PB mediumpurple X\n\
@@ -23,7 +23,7 @@ MH hotpink P\n\
 -TEAM TEAM HOWE\n\
 MH firebrick P\n\
 SM firebrick P\n\
-DC firebrick X\n\
+DC firebrick P\n\
 MN firebrick P\n\
 CA firebrick P\n\
 EL firebrick X\n\
@@ -49,7 +49,7 @@ AB darkgoldenrod P\n\
 FG darkgoldenrod X\n\
 ?? black X\n\
 -TEAM TEAM King\n\
-GK yellowgreen X\n\
+GK yellowgreen P\n\
 BP yellowgreen X\n\
 RB yellowgreen P\n\
 KW yellowgreen X\n\
@@ -68,7 +68,7 @@ HM slategray P\n\
 JR slategray P\n\
 SM slategray X\n\
 DR slategray X\n\
-KW slategray X\n\
+KW slategray P\n\
 -TEAM BC Science\n\
 RI navy P\n\
 NR navy P\n\
