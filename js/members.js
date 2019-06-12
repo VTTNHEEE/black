@@ -47,12 +47,12 @@ CF darkgoldenrod P\n\
 JB darkgoldenrod P\n\
 AB darkgoldenrod P\n\
 FG darkgoldenrod X\n\
-?? black X\n\
+JF darkgoldenrod P\n\
 -TEAM TEAM King\n\
 GK yellowgreen P\n\
 BP yellowgreen X\n\
 RB yellowgreen P\n\
-KW yellowgreen X\n\
+KW yellowgreen P\n\
 DL yellowgreen X\n\
 PB yellowgreen X\n\
 -TEAM AW Maths\n\
@@ -87,7 +87,7 @@ KK Fuchsia X\n\
 LB darkorange P\n\
 GR darkorange P\n\
 SA darkorange P\n\
-JF darkorange X\n\
 EP darkorange P\n\
-?? black X\n\
+HB darkorange X\n\
+RB darkorange X\n\
 "
