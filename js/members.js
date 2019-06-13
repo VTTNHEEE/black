@@ -10,15 +10,15 @@ AK SandyBrown P\n\
 CH mediumpurple P\n\
 LD mediumpurple P\n\
 TS mediumpurple P\n\
-JC mediumpurple X\n\
+JC mediumpurple P\n\
 PB mediumpurple X\n\
 BJ mediumpurple X\n\
 -TEAM TEAM AINLEY\n\
 RA hotpink P\n\
 KM hotpink X\n\
 GF hotpink P\n\
-EH hotpink X\n\
-LM hotpink X\n\
+EH hotpink P\n\
+LM hotpink P\n\
 MH hotpink P\n\
 -TEAM TEAM HOWE\n\
 MH firebrick P\n\
@@ -48,13 +48,13 @@ JB darkgoldenrod P\n\
 AB darkgoldenrod P\n\
 FG darkgoldenrod X\n\
 JF darkgoldenrod P\n\
--TEAM TEAM King\n\
+-TEAM Gaynor and the Brawn \n\
 GK yellowgreen P\n\
-BP yellowgreen X\n\
+BP yellowgreen P\n\
 RB yellowgreen P\n\
 KW yellowgreen P\n\
 DL yellowgreen X\n\
-PB yellowgreen X\n\
+PB yellowgreen P\n\
 -TEAM AW Maths\n\
 BH red P\n\
 JH red P\n\
@@ -67,7 +67,7 @@ HG slategray P\n\
 HM slategray P\n\
 JR slategray P\n\
 SM slategray X\n\
-DR slategray X\n\
+DR slategray P\n\
 KW slategray P\n\
 -TEAM BC Science\n\
 RI navy P\n\
