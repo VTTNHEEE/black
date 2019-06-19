@@ -15,7 +15,7 @@ PB mediumpurple X\n\
 BJ mediumpurple X\n\
 -TEAM TEAM AINLEY\n\
 RA hotpink P\n\
-KM hotpink X\n\
+KM hotpink P\n\
 GF hotpink P\n\
 EH hotpink P\n\
 LM hotpink P\n\
@@ -37,7 +37,7 @@ CH dodgerblue P\n\
 -TEAM AW Science\n\
 RC darkgreen X\n\
 AL darkgreen P\n\
-CL darkgreen X\n\
+CL darkgreen P\n\
 TH darkgreen X\n\
 RM darkgreen P\n\
 JA darkgreen X\n\
