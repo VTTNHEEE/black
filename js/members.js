@@ -1,8 +1,8 @@
 var info = "\n\
 -TEAM The Floaters\n\
 VB SandyBrown P\n\
-BG SandyBrown X\n\
-MO SandyBrown X\n\
+BG SandyBrown P\n\
+MO SandyBrown P\n\
 AC SandyBrown P\n\
 LF SandyBrown P\n\
 AK SandyBrown P\n\
@@ -11,8 +11,8 @@ CH mediumpurple P\n\
 LD mediumpurple P\n\
 TS mediumpurple P\n\
 JC mediumpurple P\n\
-PB mediumpurple X\n\
-BJ mediumpurple X\n\
+PB mediumpurple P\n\
+BJ mediumpurple P\n\
 -TEAM TEAM AINLEY\n\
 RA hotpink P\n\
 KM hotpink P\n\
@@ -26,7 +26,7 @@ SM firebrick P\n\
 DC firebrick P\n\
 MN firebrick P\n\
 CA firebrick P\n\
-EL firebrick X\n\
+EL firebrick P\n\
 -TEAM Trust Team\n\
 PB dodgerblue P\n\
 DG dodgerblue P\n\
@@ -35,25 +35,25 @@ PH dodgerblue P\n\
 JG dodgerblue P\n\
 CH dodgerblue P\n\
 -TEAM AW Science\n\
-RC darkgreen X\n\
+RC darkgreen P\n\
 AL darkgreen P\n\
 CL darkgreen P\n\
-TH darkgreen X\n\
+TH darkgreen P\n\
 RM darkgreen P\n\
-JA darkgreen X\n\
+JA darkgreen P\n\
 -TEAM TEAM Colley\n\
 GC darkgoldenrod P\n\
 CF darkgoldenrod P\n\
 JB darkgoldenrod P\n\
 AB darkgoldenrod P\n\
-FG darkgoldenrod X\n\
+FG darkgoldenrod P\n\
 JF darkgoldenrod P\n\
 -TEAM Gaynor and the Brawn \n\
 GK yellowgreen P\n\
 BP yellowgreen P\n\
 RB yellowgreen P\n\
 KW yellowgreen P\n\
-DL yellowgreen X\n\
+DL yellowgreen P\n\
 PB yellowgreen P\n\
 -TEAM AW Maths\n\
 BH red P\n\
@@ -66,7 +66,7 @@ RC red P\n\
 HG slategray P\n\
 HM slategray P\n\
 JR slategray P\n\
-SM slategray X\n\
+SM slategray P\n\
 DR slategray P\n\
 KW slategray P\n\
 -TEAM BC Science\n\
@@ -77,17 +77,17 @@ AP navy P\n\
 TW navy P\n\
 EP navy P\n\
 -TEAM Andrews\n\
-SA Fuchsia X\n\
+SA Fuchsia P\n\
 CT Fuchsia P\n\
-JB Fuchsia X\n\
+JB Fuchsia P\n\
 LT Fuchsia P\n\
-SZ Fuchsia X\n\
-KK Fuchsia X\n\
+SZ Fuchsia P\n\
+KK Fuchsia P\n\
 -TEAM Team 13\n\
 LB darkorange P\n\
 GR darkorange P\n\
 SA darkorange P\n\
 EP darkorange P\n\
-HB darkorange X\n\
-RB darkorange X\n\
+HB darkorange P\n\
+RB darkorange P\n\
 "
