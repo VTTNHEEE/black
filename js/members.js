@@ -1,5 +1,5 @@
 var info = "\n\
--TEAM The Floaters\n\
+-TEAM Team FLO (Fabulous ladies only)\n\
 VB SandyBrown P\n\
 BG SandyBrown P\n\
 MO SandyBrown P\n\
@@ -13,14 +13,14 @@ TS mediumpurple P\n\
 JC mediumpurple P\n\
 PB mediumpurple P\n\
 BJ mediumpurple P\n\
--TEAM TEAM AINLEY\n\
+-TEAM Crazy Chameleon's\n\
 RA hotpink P\n\
 KM hotpink P\n\
 GF hotpink P\n\
 EH hotpink P\n\
 LM hotpink P\n\
 MH hotpink P\n\
--TEAM TEAM HOWE\n\
+-TEAM The Shambollocks\n\
 MH firebrick P\n\
 SM firebrick P\n\
 DC firebrick P\n\
@@ -41,21 +41,21 @@ CL darkgreen P\n\
 TH darkgreen P\n\
 RM darkgreen P\n\
 JA darkgreen P\n\
--TEAM TEAM Colley\n\
+-TEAM Quizeerascals\n\
 GC darkgoldenrod P\n\
 CF darkgoldenrod P\n\
 JB darkgoldenrod P\n\
 AB darkgoldenrod P\n\
 FG darkgoldenrod P\n\
 JF darkgoldenrod P\n\
--TEAM Gaynor and the Brawn \n\
+-TEAM Gaynor and the Braun \n\
 GK yellowgreen P\n\
 BP yellowgreen P\n\
 RB yellowgreen P\n\
 KW yellowgreen P\n\
 DL yellowgreen P\n\
 PB yellowgreen P\n\
--TEAM AW Maths\n\
+-TEAM I am Smarticus\n\
 BH red P\n\
 JH red P\n\
 TW red P\n\
@@ -69,14 +69,14 @@ JR slategray P\n\
 SM slategray P\n\
 DR slategray P\n\
 KW slategray P\n\
--TEAM BC Science\n\
+-TEAM Team Victory\n\
 RI navy P\n\
 NR navy P\n\
 EV navy P\n\
 AP navy P\n\
 TW navy P\n\
 EP navy P\n\
--TEAM Andrews\n\
+-TEAM Agatha Quiztie\n\
 SA Fuchsia P\n\
 CT Fuchsia P\n\
 JB Fuchsia P\n\
