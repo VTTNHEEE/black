@@ -1,60 +1,25 @@
 var info = "\n\
--TEAM Team FLO (Fabulous ladies only)\n\
-VB SandyBrown P\n\
-BG SandyBrown P\n\
-MO SandyBrown P\n\
-AC SandyBrown P\n\
-LF SandyBrown P\n\
-AK SandyBrown P\n\
--TEAM Generic team name\n\
-CH mediumpurple P\n\
-LD mediumpurple P\n\
-TS mediumpurple P\n\
-JC mediumpurple P\n\
-PB mediumpurple P\n\
-BJ mediumpurple P\n\
--TEAM Crazy Chameleon's\n\
-RA hotpink P\n\
-KM hotpink P\n\
-GF hotpink P\n\
-EH hotpink P\n\
-LM hotpink P\n\
-MH hotpink P\n\
--TEAM The Shambollocks\n\
-MH firebrick P\n\
-SM firebrick P\n\
-DC firebrick P\n\
-MN firebrick P\n\
-CA firebrick P\n\
-EL firebrick P\n\
--TEAM Trust Team\n\
+-TEAM The Truckers\n\
 PB dodgerblue P\n\
 DG dodgerblue P\n\
 JM dodgerblue P\n\
 PH dodgerblue P\n\
 JG dodgerblue P\n\
 CH dodgerblue P\n\
--TEAM AW Science\n\
-RC darkgreen P\n\
-AL darkgreen P\n\
-CL darkgreen P\n\
-TH darkgreen P\n\
-RM darkgreen P\n\
-JA darkgreen P\n\
--TEAM Quizeerascals\n\
+-TEAM Love on the Riviera\n\
+CH mediumpurple P\n\
+LD mediumpurple P\n\
+TS mediumpurple P\n\
+JC mediumpurple P\n\
+PB mediumpurple P\n\
+BJ mediumpurple P\n\
+-TEAM Quizee Rascals\n\
 GC darkgoldenrod P\n\
 CF darkgoldenrod P\n\
 JB darkgoldenrod P\n\
 AB darkgoldenrod P\n\
 FG darkgoldenrod P\n\
 JF darkgoldenrod P\n\
--TEAM Gaynor and the Braun \n\
-GK yellowgreen P\n\
-BP yellowgreen P\n\
-RB yellowgreen P\n\
-KW yellowgreen P\n\
-DL yellowgreen P\n\
-PB yellowgreen P\n\
 -TEAM I am Smarticus\n\
 BH red P\n\
 JH red P\n\
@@ -62,13 +27,20 @@ TW red P\n\
 RP red P\n\
 JJ red P\n\
 RC red P\n\
--TEAM BC S Team\n\
-HG slategray P\n\
-HM slategray P\n\
-JR slategray P\n\
-SM slategray P\n\
-DR slategray P\n\
-KW slategray P\n\
+-TEAM Gaynor and the Braun\n\
+GK yellowgreen P\n\
+BP yellowgreen P\n\
+RB yellowgreen P\n\
+KW yellowgreen P\n\
+DL yellowgreen P\n\
+PB yellowgreen P\n\
+-TEAM The Shambollocks\n\
+MH firebrick P\n\
+SM firebrick P\n\
+DC firebrick P\n\
+MN firebrick P\n\
+CA firebrick P\n\
+EL firebrick P\n\
 -TEAM Team Victory\n\
 RI navy P\n\
 NR navy P\n\
@@ -76,13 +48,34 @@ EV navy P\n\
 AP navy P\n\
 TW navy P\n\
 EP navy P\n\
--TEAM Agatha Quiztie\n\
-SA Fuchsia P\n\
-CT Fuchsia P\n\
-JB Fuchsia P\n\
-LT Fuchsia P\n\
-SZ Fuchsia P\n\
-KK Fuchsia P\n\
+-TEAM Team FLO (Fabulous ladies only)\n\
+VB SandyBrown P\n\
+BG SandyBrown P\n\
+MO SandyBrown P\n\
+AC SandyBrown P\n\
+LF SandyBrown P\n\
+AK SandyBrown P\n\
+-TEAM Crazy Chameleons\n\
+RA hotpink P\n\
+KM hotpink P\n\
+GF hotpink P\n\
+EH hotpink P\n\
+LM hotpink P\n\
+MH hotpink P\n\
+-TEAM Periodic Table Dancers\n\
+RC darkgreen P\n\
+AL darkgreen P\n\
+CL darkgreen P\n\
+TH darkgreen P\n\
+RM darkgreen P\n\
+JA darkgreen P\n\
+-TEAM 99 Problems\n\
+HG slategray P\n\
+HM slategray P\n\
+JR slategray P\n\
+SM slategray P\n\
+DR slategray P\n\
+KW slategray P\n\
 -TEAM Team 13\n\
 LB darkorange P\n\
 GR darkorange P\n\
@@ -90,4 +83,11 @@ SA darkorange P\n\
 EP darkorange P\n\
 HB darkorange P\n\
 RB darkorange P\n\
+-TEAM Agatha Quiztie\n\
+SA Fuchsia P\n\
+CT Fuchsia P\n\
+JB Fuchsia P\n\
+LT Fuchsia P\n\
+SZ Fuchsia P\n\
+KK Fuchsia P\n\
 "
